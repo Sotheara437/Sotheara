@@ -1,116 +1,85 @@
-
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=200&section=header&text=Sam%20Sotheara&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Data%20Analyst&descAlignY=58&descColor=c3d4f0" />
+# Hey, I'm Sam Sotheara 👋
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+a+Data+Science+Student;Passionate+about+Data+and+Analytics;Transforming+Raw+Data+into+Valuable+Insights;Continuously+Learning+and+Growing)](https://git.io/typing-svg)
+### Data Science Student · Aspiring Machine Learning & AI Engineer
 
-<!-- Social -->
-<p>
-  <a href="https://www.linkedin.com/in/sotheara-sam-277271340/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sotheara-sam&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
-</p>
+**Learning to turn data into intelligent applications.**
 
-<img src="https://img.shields.io/badge/🟢%20Available%20for%20Work-Open%20to%20Opportunities-3fb950?style=flat-square" />
+📍 Cambodia &nbsp;·&nbsp; 🎓 Year 4 Data Science &nbsp;·&nbsp; 🔍 Open to ML / AI internships and junior roles
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Sotheara437-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sotheara437)
+[![Focus: Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-6C63FF?style=for-the-badge)](https://github.com/Sotheara437?tab=repositories)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About me
 
-```python
-class SamSotheara:
-    def __init__(self):
-        self.name       = "Sam Sotheara"
-        self.location   = "Phnom Penh, Cambodia"
-        self.roles      = ["Data Scientist", "Data Analyst"]
-        self.languages  = ["Python", "SQL"]
-        self.interests  = ["Big Data", "Data Pipelines", "Data Visualization"]
+I'm a fourth-year **Data Science student** exploring how to build useful AI-powered software. I'm focusing on **machine learning**, while developing practical skills in **natural language processing (NLP)** and **computer vision**.
 
-    def currently(self):
-        return {
-            "building":  "Data-driven dashboards and predictive models",
-            "ask_me":    "Data engineering, Python, SQL, and analytics",
-            "fun_fact":  "I enjoy transforming raw data into meaningful insights"
-        }
+- 🌱 Currently studying: ML fundamentals, deep learning, NLP and computer vision
+- 🛠️ Building: reproducible experiments, small applications and a public AI portfolio
+- 🎯 Career goal: ML / AI Engineer internship or junior opportunity in Cambodia
+- 💡 I care about: understandable models, solid evaluation and clean code
 
-me = SamSotheara()
-print(me.currently())
+## ⚙️ My learning toolkit
+
+**Data & machine learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Deep learning & AI — learning / practicing**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Workflow**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+> These badges describe my current learning stack, not a claim of expert proficiency.
+
+## 🚀 Portfolio roadmap
+
+I'm developing these projects as part of my ML / AI engineering journey. I'll link each repository here when it is ready.
+
+| Project | What it will demonstrate | Status |
+| :--- | :--- | :--- |
+| 📊 **Customer Churn Prediction** | Data preparation, classification, cross-validation, model evaluation | 🗓️ Planned |
+| 💬 **Khmer / English Text Classification** | NLP preprocessing, multilingual models, precision / recall / F1 | 🗓️ Planned |
+| 📸 **Receipt OCR / Computer Vision** | Image preprocessing, OCR, real-world error analysis | 🗓️ Planned |
+
+## 📚 Currently learning
+
+```text
+Machine Learning       ███████░░░  Building foundations
+Natural Language       ████░░░░░░  Learning & experimenting
+Computer Vision        ████░░░░░░  Learning & experimenting
+Model Deployment       ██░░░░░░░░  Next focus
 ```
-## 🚀 Technical Skills
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+*The bars are decorative learning markers—not measured proficiency scores. Adjust them as your progress changes.*
 
----
+## 🤝 Let's connect
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+I'm interested in **ML / AI engineering opportunities**, practical projects and learning with other developers.
+
+- 🔗 [Explore my repositories](https://github.com/Sotheara437?tab=repositories)
+- 💬 Reach out through my GitHub profile
 
 ---
-
-### ⚙️ Data Engineering
-![ETL](https://img.shields.io/badge/ETL-Process-6A5ACD?style=for-the-badge)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
----
-
-### 📊 Data Analysis & Visualization
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🔄 Data Processing
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
-![Data Transformation](https://img.shields.io/badge/Data%20Transformation-FF9800?style=for-the-badge)
-
----
-
-## 📊 Skills Proficiency
 
 <div align="center">
 
-| Category | Skills | Level | Progress |
-|----------|--------|-------|----------|
-| 💻 Programming | Python, SQL, R | Intermediate | ![](https://progress-bar.xyz/65/?scale=100&width=220&color=3776AB&suffix=%) |
-| 🗄️ Databases | MySQL, PostgreSQL, Hive | Intermediate | ![](https://progress-bar.xyz/65/?scale=100&width=220&color=4479A1&suffix=%) |
-| ⚙️ Data Engineering | ETL, Spark, Hadoop, Kafka | Fundamental | ![](https://progress-bar.xyz/50/?scale=100&width=220&color=58a6ff&suffix=%) |
-| 📊 Analysis & Visualization | Excel, Power BI, Matplotlib | Intermediate | ![](https://progress-bar.xyz/70/?scale=100&width=220&color=2E8B57&suffix=%) |
-| 🔄 Data Processing | Cleaning, Transformation | Intermediate | ![](https://progress-bar.xyz/70/?scale=100&width=220&color=FF9800&suffix=%) |
+*Learn → Build → Evaluate → Improve → Share* ✨
 
 </div>
----
-
-## ⚡ Quick Info
-
-<div align="center">
-
-![](https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20Analytics-58a6ff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/📍%20Lives-Phnom%20Penh%2C%20Cambodia-3fb950?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/🟢%20Status-Open%20to%20Work-f78166?style=flat-square&labelColor=0d1117)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sotheara-sam-277271340/">
-    <img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-```
